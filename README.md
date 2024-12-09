@@ -7,3 +7,5 @@ This github is only for personal use only making projects to learn different kin
 Skills: HTML / CSS / JAVA / TYPESCRIPT
 
 - 🔭 I’m currently working on this page. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ludekdvorak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lud%C4%9Bk-dvo%C5%99%C3%A1k-a0506225b//)  
