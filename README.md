@@ -2,7 +2,7 @@
 # Luděk Dvořák
 This github is only for personal use only making projects to learn different kind of skills!
 ## Skills and experience
-!(https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png)
+[<img src=https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png alt='HTML' height='40'>]
 * HTML + CSS + TYPESCRIPT
 * Java, Kotlin
 * Python
