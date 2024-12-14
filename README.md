@@ -1,4 +1,3 @@
-![I am software engineer](https://png.pngtree.com/template/20220505/ourmid/pngtree-programming-and-coding-banner-working-image_1312497.jpg)
 # Luděk Dvořák
 This github is only for personal use only making projects to learn different kind of skills!
 ## Skills and experience
@@ -12,8 +11,6 @@ This github is only for personal use only making projects to learn different kin
 - 🔭 I’m currently working on this page.
 
 ## Statistics
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ludekdvorak)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludekdvorak)](https://github.com/anuraghazra/github-readme-stats)
 
