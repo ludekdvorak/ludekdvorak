@@ -19,8 +19,6 @@ This github is only for personal use only making projects to learn different kin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ludekdvorak&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ludekdvorak/contributions?format=svg&private=false)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ludekdvorak)  
 
 
