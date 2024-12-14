@@ -2,7 +2,16 @@
 # Luděk Dvořák
 This github is only for personal use only making projects to learn different kind of skills!
 ## Skills and experience
-[<img src=https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png alt='HTML' height='40'>]
+<img src=https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png alt='HTML' height='40'>
+<img src=https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png alt='HTML' height='40'>
+<img src=https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png alt='HTML' height='40'>
+<img src=https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png alt='HTML' height='40'>
+<img src=https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png alt='HTML' height='40'>
+<img src=https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png alt='HTML' height='40'>
+<img src=https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png alt='HTML' height='40'>
+<img src=https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png alt='HTML' height='40'>
+
+
 * HTML + CSS + TYPESCRIPT
 * Java, Kotlin
 * Python
