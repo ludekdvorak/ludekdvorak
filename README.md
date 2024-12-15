@@ -1,4 +1,8 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/7131fd94-e500-4c15-b0b6-fb894f17ca94)
+
 # Luděk Dvořák
+
+
 This github is only for personal use only making projects to learn different kind of skills!
 
 Software Engineer working in Česká Spořitelna
